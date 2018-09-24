@@ -968,7 +968,7 @@
     </property>
     <property key="ManufacturingBillOfMaterials">
         <value xml:lang="de">Stückliste</value>
-        <value xml:lang="en">Bill Of Materials</value>
+        <value xml:lang="en">Recipe</value>
         <value xml:lang="es">Lista de materiales</value>
         <value xml:lang="fr">Nomenclature</value>
         <value xml:lang="it">Distinta base</value>
@@ -2467,7 +2467,7 @@
     </property>
     <property key="ManufacturingJobShop">
         <value xml:lang="de">Produktionsaufträge</value>
-        <value xml:lang="en">JobShop</value>
+        <value xml:lang="en">Kitchen</value>
         <value xml:lang="es">Producción</value>
         <value xml:lang="fr">Ordres de fabrication</value>
         <value xml:lang="it">Ordine di produzione</value>
